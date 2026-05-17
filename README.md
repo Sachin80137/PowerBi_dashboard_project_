@@ -4,4 +4,5 @@ this is a power bi end to end project.
 this is my first Git Repository.
 <br>
 Change by - Sachin (alumni)
+powerbi is a a visualisation tools . here we prepare reports/ dashboard of the related data.
 
